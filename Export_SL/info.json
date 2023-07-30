@@ -1,0 +1,20 @@
+{
+	"type" : "Standard",
+	"name" : "Export_SL",
+	"icon" : ":/CC/plugin/Export_SL/images/icon.png",
+	"description": "Enables to display and export the listed coordinates of scan locations (poses) of ground based LIDAR scans in CSV, if the data contains those.",
+	"authors" : [
+		{
+			"name" : "S. Preussel"
+
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "S. Preussel"
+		}
+
+	],
+	"references" : [
+	]
+}
